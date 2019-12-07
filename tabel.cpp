@@ -1,5 +1,5 @@
-#include<iostream>
-#include<tabel.h>
+#include <iostream>
+#include "tabel.h"
 using namespace std;
 
 
