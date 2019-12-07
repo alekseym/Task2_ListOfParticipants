@@ -6,7 +6,6 @@ using namespace std;
 
 Tabel::Tabel()
 {
-
 }
 
 void Tabel::loadnames(string fnames)
